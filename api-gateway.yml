@@ -1,5 +1,8 @@
 skipAuthUrls:
   /auth
+  /education/bes/v1/exam-center/exam-people/update
+  /education/bes/v1/exam-center/exam-people/add
+  /education/bes/v1/exam-center/exam-people/send-verification/register
 blackList:
   /127.0.0.1,
   /1.1.1.1,
