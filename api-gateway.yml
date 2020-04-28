@@ -1,5 +1,12 @@
 skipAuthUrls:
   /auth
+  /bes/v1/system-manager/user/getCode
+  /bes/v1/system-manager/user/getChangePasswordCode
+  /bes/v1/system-manager/user/getRegisterCode
+  /bes/v1/system-manager/user/register
+  /bes/v1/system-manager/company/listCompanyByOrgId
+  /bes/v1/system-manager/position/query/companyId
+  /bes/v1/system-manager/user/changePassword
   /education/bes/v1/exam-center/exam-people/update
   /education/bes/v1/exam-center/exam-people/add
   /education/bes/v1/exam-center/exam-people/send-verification/register
